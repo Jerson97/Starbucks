@@ -1,0 +1,11 @@
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\bin\Debug\net9.0\Starbucks.Domain.deps.json
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\bin\Debug\net9.0\Starbucks.Domain.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\bin\Debug\net9.0\Starbucks.Domain.pdb
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.AssemblyInfoInputs.cache
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.AssemblyInfo.cs
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\refint\Starbucks.Domain.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.pdb
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\ref\Starbucks.Domain.dll
