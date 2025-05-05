@@ -3,7 +3,7 @@ using Starbucks.Domain;
 
 namespace Starbucks.Persistence;
 
-public class StarbucksDbContext :DbContext
+public class StarbucksDbContext(DbContextOptions options) :DbContext(options)
 {
     public required DbSet<Categoria> Categorias{ get; set; }
     public required DbSet<Cafe> Cafes{ get; set; }
@@ -41,5 +41,13 @@ public class StarbucksDbContext :DbContext
                 j.HasKey(t => new { t.CafeId, t.IngredienteId });
             }
         );
+
+        modelBuilder.Entity<Categoria>().HasData(GetCategorias());
     }
+
+    private IEnumerable<Categoria> GetCategorias()
+    {
+        return Enum.GetValues<CategoriaEnum>().Select(p => Categoria.Crear((int)p));
+    }
+
 }

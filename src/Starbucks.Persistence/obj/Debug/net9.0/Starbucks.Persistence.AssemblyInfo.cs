@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Starbucks.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1127b4a7af6df833ea50bca2c64c416f3d78b719")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5336a0b138683acbda99b18e1c3747f549c124e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Starbucks.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Starbucks.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

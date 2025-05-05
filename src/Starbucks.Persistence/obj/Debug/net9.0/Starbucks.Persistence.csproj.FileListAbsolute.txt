@@ -13,3 +13,6 @@ C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbuc
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\refint\Starbucks.Persistence.dll
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbucks.Persistence.pdb
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\ref\Starbucks.Persistence.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\bin\Debug\net9.0\Starbucks.Persistence.runtimeconfig.json
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbucks.Persistence.sourcelink.json
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Persistence\obj\Debug\net9.0\Starbucks.Persistence.genruntimeconfig.cache

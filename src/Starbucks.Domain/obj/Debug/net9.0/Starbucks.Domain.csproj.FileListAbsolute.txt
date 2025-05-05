@@ -9,3 +9,4 @@ C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Do
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\refint\Starbucks.Domain.dll
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.pdb
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\ref\Starbucks.Domain.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Domain\obj\Debug\net9.0\Starbucks.Domain.sourcelink.json
