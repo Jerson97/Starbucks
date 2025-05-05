@@ -11,7 +11,7 @@ using Starbucks.Persistence;
 namespace Starbucks.Persistence.Migrations
 {
     [DbContext(typeof(StarbucksDbContext))]
-    [Migration("20250505160353_InitialMigration")]
+    [Migration("20250505165154_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
