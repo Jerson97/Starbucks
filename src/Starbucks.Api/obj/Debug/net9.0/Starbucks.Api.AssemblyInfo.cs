@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Starbucks.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d05751794f8e778851725e14751382eeb36dd63d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7777faa9a37c1092591f4587af1276a2da3ee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Starbucks.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Starbucks.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
