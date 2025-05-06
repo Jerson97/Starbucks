@@ -154,4 +154,4 @@ C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\bin\Debug\net9.0\runtimes\win-ar
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\obj\Debug\net9.0\Starbucks.Api.sourcelink.json
-C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\bin\Debug\net9.0\Resources\coffe.json
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Api\bin\Debug\net9.0\Resources\cafe.json

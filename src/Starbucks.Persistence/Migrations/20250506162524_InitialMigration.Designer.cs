@@ -11,7 +11,7 @@ using Starbucks.Persistence;
 namespace Starbucks.Persistence.Migrations
 {
     [DbContext(typeof(StarbucksDbContext))]
-    [Migration("20250505165154_InitialMigration")]
+    [Migration("20250506162524_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -101,7 +101,7 @@ namespace Starbucks.Persistence.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("Nombre")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
