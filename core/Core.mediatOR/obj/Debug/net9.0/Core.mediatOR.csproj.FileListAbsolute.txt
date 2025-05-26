@@ -1,0 +1,13 @@
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\bin\Debug\net9.0\Core.mediatOR.deps.json
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\bin\Debug\net9.0\Core.mediatOR.dll
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\bin\Debug\net9.0\Core.mediatOR.pdb
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.AssemblyInfoInputs.cache
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.AssemblyInfo.cs
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.csproj.CoreCompileInputs.cache
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.sourcelink.json
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.dll
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\refint\Core.mediatOR.dll
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.pdb
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\ref\Core.mediatOR.dll
+C:\ProyectosNet2025\Starbucks\core\Core.mediatOR\obj\Debug\net9.0\Core.mediatOR.csproj.AssemblyReference.cache

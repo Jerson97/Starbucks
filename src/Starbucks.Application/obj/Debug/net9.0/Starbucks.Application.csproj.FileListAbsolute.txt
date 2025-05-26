@@ -16,3 +16,5 @@ C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\obj\Debug\net9.0\refint\
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\obj\Debug\net9.0\Starbucks.Application.pdb
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\obj\Debug\net9.0\ref\Starbucks.Application.dll
 C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\obj\Debug\net9.0\Starbucks.Application.sourcelink.json
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\bin\Debug\net9.0\Core.mediatOR.dll
+C:\ProyectosNet2025\Starbucks\src\Starbucks.Application\bin\Debug\net9.0\Core.mediatOR.pdb
